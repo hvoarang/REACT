@@ -19,4 +19,5 @@ render(element, document.querySelector('#root'));
 const arr = [1, 2, 3, 4, 5, 6, 7];
 
 const newArr = arr.slice(2, 7);
-console.log(newArr); //1-3
+
+console.log(newArr);
